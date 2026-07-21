@@ -1,18 +1,28 @@
-🚀 Excited to Share My Cybersecurity Project – Sentinel Threat Trace! 🔐
+🚀 Excited to Share My Network Traffic Analysis & Intrusion Detection Project! 🌐🔍
 
-As part of my cybersecurity learning journey, I built Sentinel Threat Trace, a web-based platform designed to spread awareness about phishing attacks while demonstrating how phishing detection and user education can work together.
+I'm excited to showcase one of my recent cybersecurity projects focused on Network Traffic Analysis and Intrusion Detection. This project helped me gain hands-on experience in monitoring network traffic, analyzing packets, and detecting suspicious activities using industry-standard cybersecurity tools.
 
-This project helped me strengthen my understanding of:
-✅ Phishing attack techniques and prevention
-✅ Cybersecurity awareness and secure browsing practices
-✅ Web application development
-✅ User-focused security solutions
-✅ Problem-solving and project deployment
+🔹 Project Highlights:
+✅ Built a virtual cybersecurity lab using Kali Linux
+✅ Captured and analyzed live network traffic with Wireshark
+✅ Performed network reconnaissance using Nmap
+✅ Monitored packets with tcpdump
+✅ Configured Snort IDS to detect and generate alerts for network events
+✅ Analyzed protocols including TCP, ICMP, ARP, and IP
+✅ Understood the TCP Three-Way Handshake and packet flow in real-world networks
 
-Building this project gave me valuable hands-on experience in combining cybersecurity concepts with practical implementation. It reinforced the importance of educating users, as human error continues to be one of the biggest security risks.
+🛠️ Tools & Technologies:
+• Kali Linux
+• Wireshark
+• Snort IDS
+• Nmap
+• tcpdump
+• VirtualBox
 
-🌐 Live Demo: https://sentinel-theta-brown.vercel.app/
+This project strengthened my practical understanding of network security, packet analysis, intrusion detection, and how security analysts monitor and defend enterprise networks.
 
-I would love to hear your feedback and suggestions for future improvements. Every comment helps me learn and grow as an aspiring cybersecurity professional.
+🌐 Live Project: https://sentinel-theta-brown.vercel.app/
 
-#CyberSecurity #Phishing #InformationSecurity #EthicalHacking #CyberAwareness #WebDevelopment #StudentProject #LearningByBuilding #OpenToLearn #CybersecurityStudent #LinkedIn
+I would love to hear your feedback and suggestions. I'm always eager to learn and improve as I continue my journey in cybersecurity.
+
+#CyberSecurity #NetworkSecurity #Wireshark #Snort #Nmap #Tcpdump #KaliLinux #IntrusionDetection #PacketAnalysis #EthicalHacking #CybersecurityStudent #Networking #LearningByDoing
